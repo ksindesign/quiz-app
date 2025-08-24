@@ -1,23 +1,6 @@
-# React + Vite
+A simple quiz app created using React. Fetching data from a json file and using
+a custom hook to avoid duplicated code.
 
-This template provides a minimal setup to get React working in Vite with HMR and
-some ESLint rules.
+## ⚡️ Features
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react)
-  uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc)
-  uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript
-with type-aware lint rules enabled. Check out the
-[TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts)
-for information on how to integrate TypeScript and
-[`typescript-eslint`](https://typescript-eslint.io) in your project.
-
-## following the course of
-
-https://github.com/machadop1407/react-beginner-project
+- ✨ **Final Score** Players can see their final score once the quiz is done.
