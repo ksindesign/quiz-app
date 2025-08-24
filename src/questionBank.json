@@ -1,0 +1,105 @@
+{
+  "quizTitle": "Google Apps Script Quiz",
+  "questions": [
+    {
+      "question": "Which of the following is a data type in Google Apps Script?",
+      "options": {
+        "a": "Integer",
+        "b": "String",
+        "c": "Boolean",
+        "d": "All of the above"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "Which method is used to create a new sheet in a Google Sheets document using Apps Script?",
+      "options": {
+        "a": "createSheet()",
+        "b": "addSheet()",
+        "c": "newSheet()",
+        "d": "sheetCreate()"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which operator is used to concatenate strings in Apps Script?",
+      "options": {
+        "a": "+",
+        "b": "*",
+        "c": "/",
+        "d": "&"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Which method is used to retrieve the value of a cell in Google Sheets using Apps Script?",
+      "options": {
+        "a": "getCellValue()",
+        "b": "getCell()",
+        "c": "getValue()",
+        "d": "retrieveCellValue()"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which method is used to delete a row in a Google Sheets document using Apps Script?",
+      "options": {
+        "a": "deleteRow()",
+        "b": "removeRow()",
+        "c": "eraseRow()",
+        "d": "eliminateRow()"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Which method is used to create a new file in Google Drive using Apps Script?",
+      "options": {
+        "a": "createFile()",
+        "b": "newFile()",
+        "c": "addFile()",
+        "d": "makeFile()"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Which method is used to send an email using Apps Script?",
+      "options": {
+        "a": "sendEmail()",
+        "b": "emailSend()",
+        "c": "mailSend()",
+        "d": "send()"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Which method is used to get the current date and time in Apps Script?",
+      "options": {
+        "a": "getCurrentTime()",
+        "b": "getCurrentDate()",
+        "c": "new Date()",
+        "d": "getDateAndTime()"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which method is used to get the user's email address in Apps Script?",
+      "options": {
+        "a": "getUserEmail()",
+        "b": "getEmail()",
+        "c": "getCurrentUserEmail()",
+        "d": "Session.getActiveUser().getEmail()"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "Which method is used to create a menu in a Google Sheets document using Apps Script?",
+      "options": {
+        "a": "createMenu()",
+        "b": "addMenu()",
+        "c": "newMenu()",
+        "d": "insertMenu()"
+      },
+      "answer": "b"
+    }
+  ]
+}
